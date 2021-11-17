@@ -2,6 +2,6 @@ package DemoGit
 
 import "fmt"
 
-func sayHello() {
+func SayHello() {
 	fmt.Println("hello world")
 }
